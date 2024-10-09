@@ -1,2 +1,4 @@
 nlp1.ipynb
 .venv
+mymodel.keras
+model.weights.h5
